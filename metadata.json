@@ -1,0 +1,6 @@
+{
+  "name": "CCFA ORGANIZADORES",
+  "description": "Organiza listas de presença para esportes amadores, escala times taticamente com fôlego, nível técnico e posições, e realiza sorteios aleatórios com o Treinador AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
